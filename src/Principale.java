@@ -1,12 +1,12 @@
 /*
- * @author Mosticchio Simone 
+ * @author Cossa Danilo
  * 
- * version 2.0
+ * version 3.0.
  */
 public class Principale {
 
 	public static void main(String[] args) {
-		System.out.println("Mosticchio Simone");
+		System.out.println("Cossa Danilo");
 
 	}
 
